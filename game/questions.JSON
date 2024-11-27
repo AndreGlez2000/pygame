@@ -1,0 +1,27 @@
+{
+    "questions": [
+        {
+            "question": "¿Qué color es esta fruta?",
+            "image_path": "images/apple.png",
+            "options": ["Rojo", "Verde", "Amarillo", "Naranja"],
+            "correct_answer": "Rojo",
+            "category": "Colores"
+        },
+        {
+            "question": "¿Cuánto es 2 + 2?",
+            "image_path": "images/2plus2.png",
+            "options": ["3", "4", "5", "6"],
+            "correct_answer": "4",
+            "category": "Matemáticas"
+        },
+    
+        {
+            "question": "¿Qué fruta es esta?",
+            "image_path": "images/banana.png",
+            "options": ["Manzana", "Plátano", "Pera", "Uva"],
+            "correct_answer": "Plátano",
+            "category": "Alimentos"
+        }
+       
+    ]
+}
