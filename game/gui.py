@@ -382,7 +382,7 @@ def main():
     
     # Verificar que existe el archivo de preguntas
     if not os.path.exists('questions.JSON'):
-        print("No se encuentra el archivo 'questions.json'. Por favor, créalo con el formato correcto.")
+        print("No se encuentra el archivo 'questions.json'. Por favor, crealo con el formato correcto.")
         return
     
     # Iniciar el juego

@@ -21,7 +21,401 @@
             "options": ["Manzana", "Plátano", "Pera", "Uva"],
             "correct_answer": "Plátano",
             "category": "Alimentos"
-        }
+        },
        
+        {
+            "question": "¿Qué planeta es el más cercano al Sol?",
+            "image_path": "images/mercury.png",
+            "options": ["Venus", "Marte", "Tierra", "Mercurio"],
+            "correct_answer": "Mercurio",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Qué monumento es este?",
+            "image_path": "images/eiffel_tower.png",
+            "options": ["Torre Eiffel", "Coliseo", "Gran Muralla", "Big Ben"],
+            "correct_answer": "Torre Eiffel",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué color se forma al mezclar rojo y amarillo?",
+            "image_path": "images/orange.png",
+            "options": ["Verde", "Naranja", "Morado", "Azul"],
+            "correct_answer": "Naranja",
+            "category": "Arte"
+        },
+        {
+            "question": "¿Quién pintó la Mona Lisa?",
+            "image_path": "images/mona_lisa.png",
+            "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Miguel Ángel"],
+            "correct_answer": "Leonardo da Vinci",
+            "category": "Arte"
+        },
+        {
+            "question": "¿Cuál es el sinónimo de 'grande'?",
+            "image_path": "images/synonym.png",
+            "options": ["Pequeño", "Gigante", "Lento", "Fácil"],
+            "correct_answer": "Gigante",
+            "category": "Español"
+        },
+        {
+            "question": "¿En qué año llegó Cristóbal Colón a América?",
+            "image_path": "images/columbus.png",
+            "options": ["1492", "1519", "1810", "1910"],
+            "correct_answer": "1492",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Cuánto es 9 + 6?",
+            "image_path": "images/math_sum.png",
+            "options": ["14", "15", "16", "17"],
+            "correct_answer": "15",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Qué es un adjetivo?",
+            "image_path": "images/adjective.png",
+            "options": [
+                "Una palabra que describe a un sustantivo",
+                "Una palabra que indica acción",
+                "Una palabra que conecta oraciones",
+                "Una palabra que sustituye al nombre"
+            ],
+            "correct_answer": "Una palabra que describe a un sustantivo",
+            "category": "Español"
+        },
+        {
+            "question": "¿Cuál es el antónimo de 'valiente'?",
+            "image_path": "images/antonym.png",
+            "options": ["Cobarde", "Fuerte", "Héroe", "Temerario"],
+            "correct_answer": "Cobarde",
+            "category": "Español"
+        },
+        {
+            "question": "¿En qué año se consumó la independencia de México?",
+            "image_path": "images/independence.png",
+            "options": ["1810", "1815", "1821", "1857"],
+            "correct_answer": "1821",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Cuál es el resultado de 12 x 8?",
+            "image_path": "images/multiplication.png",
+            "options": ["86", "96", "108", "112"],
+            "correct_answer": "96",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Cuál es el país más grande de América del Sur?",
+            "image_path": "images/south_america.png",
+            "options": ["Argentina", "Brasil", "Chile", "Perú"],
+            "correct_answer": "Brasil",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué planeta del sistema solar tiene anillos visibles?",
+            "image_path": "images/saturn.png",
+            "options": ["Júpiter", "Urano", "Saturno", "Neptuno"],
+            "correct_answer": "Saturno",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Qué río es el más largo del mundo?",
+            "image_path": "images/river.png",
+            "options": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+            "correct_answer": "Amazonas",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué es un verbo en modo subjuntivo?",
+            "image_path": "images/subjunctive.png",
+            "options": [
+                "Un verbo que expresa deseo o posibilidad",
+                "Un verbo que indica acción en tiempo pasado",
+                "Un verbo que une oraciones",
+                "Un verbo que se usa como adjetivo"
+            ],
+            "correct_answer": "Un verbo que expresa deseo o posibilidad",
+            "category": "Español"
+        },
+        {
+            "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+            "image_path": "images/ww1.png",
+            "options": ["1914", "1939", "1918", "1921"],
+            "correct_answer": "1914",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Qué país lideró la conquista de México en el siglo XVI?",
+            "image_path": "images/conquest.png",
+            "options": ["Francia", "España", "Inglaterra", "Portugal"],
+            "correct_answer": "España",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Cuál es el resultado de 144 dividido entre 12?",
+            "image_path": "images/division.png",
+            "options": ["10", "12", "14", "16"],
+            "correct_answer": "12",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Qué océano es el más grande del mundo?",
+            "image_path": "images/pacific_ocean.png",
+            "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+            "correct_answer": "Pacífico",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué planeta es conocido como el 'Gigante Gaseoso'?",
+            "image_path": "images/jupiter.png",
+            "options": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+            "correct_answer": "Júpiter",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Qué pintor es famoso por su obra 'El Grito'?",
+            "image_path": "images/the_scream.png",
+            "options": ["Edvard Munch", "Salvador Dalí", "Claude Monet", "Diego Rivera"],
+            "correct_answer": "Edvard Munch",
+            "category": "Artes"
+        },
+        {
+            "question": "¿Qué gas respiramos del aire para vivir?",
+            "image_path": "images/oxygen.png",
+            "options": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+            "correct_answer": "Oxígeno",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Qué país tiene más habitantes en el mundo?",
+            "image_path": "images/china.png",
+            "options": ["India", "Estados Unidos", "China", "Rusia"],
+            "correct_answer": "China",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué cultura construyó la ciudad de Machu Picchu?",
+            "image_path": "images/machu_picchu.png",
+            "options": ["Azteca", "Maya", "Inca", "Tolteca"],
+            "correct_answer": "Inca",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Qué número es el valor de π (Pi) redondeado a dos decimales?",
+            "image_path": "images/pi_symbol.png",
+            "options": ["3.12", "3.14", "3.16", "3.18"],
+            "correct_answer": "3.14",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Cuál es el río más largo de México?",
+            "image_path": "images/rio_grande.png",
+            "options": ["Río Bravo", "Río Grijalva", "Río Lerma", "Río Usumacinta"],
+            "correct_answer": "Río Bravo",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué país tiene forma de bota en el mapa?",
+            "image_path": "images/italy.png",
+            "options": ["Grecia", "Italia", "España", "Portugal"],
+            "correct_answer": "Italia",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Cuál es el múltiplo de 7 más cercano a 50?",
+            "image_path": "images/multiples.png",
+            "options": ["49", "51", "56", "42"],
+            "correct_answer": "49",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Qué evento histórico marcó el inicio de la Edad Moderna?",
+            "image_path": "images/renaissance.png",
+            "options": [
+                "Descubrimiento de América",
+                "Revolución Industrial",
+                "Caída del Imperio Romano",
+                "Invención de la imprenta"
+            ],
+            "correct_answer": "Descubrimiento de América",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Qué tipo de palabra es 'rápidamente'?",
+            "image_path": "images/adverb.png",
+            "options": ["Adjetivo", "Verbo", "Adverbio", "Sustantivo"],
+            "correct_answer": "Adverbio",
+            "category": "Español"
+        },
+        {
+            "question": "¿Quién fue el primer presidente de México?",
+            "image_path": "images/president.png",
+            "options": ["Benito Juárez", "Guadalupe Victoria", "Porfirio Díaz", "Miguel Hidalgo"],
+            "correct_answer": "Guadalupe Victoria",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Cuál es el desierto más grande del mundo?",
+            "image_path": "images/desert.png",
+            "options": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+            "correct_answer": "Sahara",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué sistema del cuerpo humano incluye los huesos?",
+            "image_path": "images/skeleton.png",
+            "options": ["Digestivo", "Respiratorio", "Circulatorio", "Esquelético"],
+            "correct_answer": "Esquelético",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Cuál es el satélite natural de la Tierra?",
+            "image_path": "images/moon.png",
+            "options": ["Luna", "Marte", "Venus", "Io"],
+            "correct_answer": "Luna",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Cómo se llama el continente donde se encuentran Egipto y Sudáfrica?",
+            "image_path": "images/africa.png",
+            "options": ["Asia", "Europa", "África", "América"],
+            "correct_answer": "África",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Cuántos lados tiene un hexágono?",
+            "image_path": "images/hexagon.png",
+            "options": ["4", "5", "6", "8"],
+            "correct_answer": "6",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Qué tratado marcó el fin de la Guerra de Independencia de México?",
+            "image_path": "images/treaty.png",
+            "options": [
+                "Plan de Ayutla",
+                "Tratado de Córdoba",
+                "Constitución de Apatzingán",
+                "Plan de Iguala"
+            ],
+            "correct_answer": "Tratado de Córdoba",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Cómo se llama el signo que indica una pausa breve en una oración?",
+            "image_path": "images/comma.png",
+            "options": ["Punto", "Coma", "Guion", "Dos puntos"],
+            "correct_answer": "Coma",
+            "category": "Español"
+        },
+        {
+            "question": "¿Quién lideró la expedición que dio la primera vuelta al mundo?",
+            "image_path": "images/magellan.png",
+            "options": ["Cristóbal Colón", "Fernando de Magallanes", "Hernán Cortés", "Américo Vespucio"],
+            "correct_answer": "Fernando de Magallanes",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Qué fracción es equivalente a 0.25?",
+            "image_path": "images/fraction.png",
+            "options": ["1/4", "1/2", "1/3", "2/5"],
+            "correct_answer": "1/4",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Cuál es el continente más pequeño en tamaño?",
+            "image_path": "images/australia.png",
+            "options": ["Antártida", "Oceanía", "Europa", "América del Sur"],
+            "correct_answer": "Oceanía",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué parte del cuerpo humano controla todas las funciones?",
+            "image_path": "images/brain.png",
+            "options": ["Corazón", "Pulmones", "Cerebro", "Riñones"],
+            "correct_answer": "Cerebro",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Qué mineral es esencial para que los huesos estén fuertes?",
+            "image_path": "images/calcium.png",
+            "options": ["Hierro", "Calcio", "Fósforo", "Potasio"],
+            "correct_answer": "Calcio",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿En qué país se encuentran las montañas más altas del mundo?",
+            "image_path": "images/mount_everest.png",
+            "options": ["India", "China", "Nepal", "Japón"],
+            "correct_answer": "Nepal",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Qué suceso histórico marca el inicio del México independiente?",
+            "image_path": "images/independence.png",
+            "options": [
+                "El Grito de Dolores",
+                "La firma del Plan de Iguala",
+                "La entrada del Ejército Trigarante",
+                "El fin de la Guerra de Reforma"
+            ],
+            "correct_answer": "La entrada del Ejército Trigarante",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Qué nombre reciben las palabras que tienen un significado opuesto?",
+            "image_path": "images/antonyms.png",
+            "options": ["Sinónimos", "Antónimos", "Homónimos", "Parónimos"],
+            "correct_answer": "Antónimos",
+            "category": "Español"
+        },
+        {
+            "question": "¿En qué año inició la Revolución Mexicana?",
+            "image_path": "images/revolution.png",
+            "options": ["1910", "1810", "1920", "1905"],
+            "correct_answer": "1910",
+            "category": "Historia"
+        },
+        {
+            "question": "¿Cuánto es 15 x 12?",
+            "image_path": "images/multiplication.png",
+            "options": ["160", "170", "180", "190"],
+            "correct_answer": "180",
+            "category": "Matemáticas"
+        },
+        {
+            "question": "¿Qué país está al norte de México?",
+            "image_path": "images/mexico.png",
+            "options": ["Guatemala", "Estados Unidos", "Canadá", "Cuba"],
+            "correct_answer": "Estados Unidos",
+            "category": "Geografía"
+        },
+        {
+            "question": "¿Cuál es la función principal del sistema digestivo?",
+            "image_path": "images/digestion.png",
+            "options": [
+                "Transportar oxígeno",
+                "Controlar los músculos",
+                "Procesar los alimentos",
+                "Producir hormonas"
+            ],
+            "correct_answer": "Procesar los alimentos",
+            "category": "Ciencias Naturales"
+        },
+        {
+            "question": "¿Qué documento firmó Benito Juárez para establecer las Leyes de Reforma?",
+            "image_path": "images/benito_juarez.png",
+            "options": [
+                "La Constitución de 1824",
+                "La Ley del Juicio de Amparo",
+                "La Constitución de 1857",
+                "El Tratado de Miramar"
+            ],
+            "correct_answer": "La Constitución de 1857",
+            "category": "Historia"
+        }
+         
+        
     ]
 }
